@@ -1,0 +1,1 @@
+<h2 style="color:red; margin-left:30%; margin-top:10%;">Data delete successfully</h2>
